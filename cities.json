@@ -4,7 +4,7 @@
         "name_ar":"MRF Quatro",
         "name_ku":"MRF قواترۆ",
         "name_ba":"MRF Quatro",
-        "api":"https://ptest.api.lucid.studio",
+        "api":"https://test.papi.lucid.studio",
         "logo":"https://mrf.group/images/mrflogo.svg",
         "sort": 1
     }
